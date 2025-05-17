@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES='0' python train.py --file_root CDD --lr 5e-4 --max_steps 40000
